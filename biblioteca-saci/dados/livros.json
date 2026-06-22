@@ -1,0 +1,18 @@
+[
+    {
+        "id": 5,
+        "titulo": "O Pé do Pedro é Preto",
+        "autor": "Pedro Preto",
+        "categoria": "Terror",
+        "ano": "2026",
+        "avaliacao": "4"
+    },
+    {
+        "id": 6,
+        "titulo": "Boto Namorador",
+        "autor": "Néia dos Santos",
+        "categoria": "Romance",
+        "ano": "2024",
+        "avaliacao": "3"
+    }
+]
